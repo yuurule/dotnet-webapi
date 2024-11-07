@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\yuu\\.net\\WebAPI\\MyFirstApi\\MyFirstApi.csproj": {}
+    "D:\\yuu\\.net\\dotnet-webapi\\MyFirstApi\\MyFirstApi.csproj": {}
   },
   "projects": {
-    "D:\\yuu\\.net\\WebAPI\\MyFirstApi\\MyFirstApi.csproj": {
+    "D:\\yuu\\.net\\dotnet-webapi\\MyFirstApi\\MyFirstApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\yuu\\.net\\WebAPI\\MyFirstApi\\MyFirstApi.csproj",
+        "projectUniqueName": "D:\\yuu\\.net\\dotnet-webapi\\MyFirstApi\\MyFirstApi.csproj",
         "projectName": "MyFirstApi",
-        "projectPath": "D:\\yuu\\.net\\WebAPI\\MyFirstApi\\MyFirstApi.csproj",
+        "projectPath": "D:\\yuu\\.net\\dotnet-webapi\\MyFirstApi\\MyFirstApi.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\yuu\\.net\\WebAPI\\MyFirstApi\\obj\\",
+        "outputPath": "D:\\yuu\\.net\\dotnet-webapi\\MyFirstApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,157 @@
+2024-11-07 14:36:33.907 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 14:36:33.931 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 14:36:33.932 +07:00 [INF] Hosting environment: Development
+2024-11-07 14:36:33.932 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 14:36:48.108 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 14:36:48.125 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 14:36:48.125 +07:00 [INF] Hosting environment: Development
+2024-11-07 14:36:48.125 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 14:37:24.687 +07:00 [INF] Application is shutting down...
+2024-11-07 14:37:30.934 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 14:37:30.951 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 14:37:30.951 +07:00 [INF] Hosting environment: Development
+2024-11-07 14:37:30.951 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 14:38:22.688 +07:00 [INF] Application is shutting down...
+2024-11-07 14:38:33.305 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 14:38:33.326 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 14:38:33.326 +07:00 [INF] Hosting environment: Development
+2024-11-07 14:38:33.326 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 14:38:54.831 +07:00 [INF] Application is shutting down...
+2024-11-07 14:39:03.604 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 14:39:03.621 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 14:39:03.621 +07:00 [INF] Hosting environment: Development
+2024-11-07 14:39:03.621 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 14:39:03.768 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger - null null
+2024-11-07 14:39:03.810 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger - 301 0 null 43.495ms
+2024-11-07 14:39:03.812 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 14:39:03.857 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 44.4092ms
+2024-11-07 14:39:03.864 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui-standalone-preset.js - null null
+2024-11-07 14:39:03.864 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 14:39:03.864 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui-bundle.js - null null
+2024-11-07 14:39:03.864 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui.css - null null
+2024-11-07 14:39:03.865 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.9253ms
+2024-11-07 14:39:03.882 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-11-07 14:39:03.883 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui.css - 200 143943 text/css 19.1456ms
+2024-11-07 14:39:03.884 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-11-07 14:39:03.884 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 19.903ms
+2024-11-07 14:39:03.892 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-11-07 14:39:03.892 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 27.6285ms
+2024-11-07 14:39:04.006 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 14:39:04.017 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/favicon-32x32.png - null null
+2024-11-07 14:39:04.017 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-11-07 14:39:04.017 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/favicon-32x32.png - 200 628 image/png 0.4536ms
+2024-11-07 14:39:04.078 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 71.9584ms
+2024-11-07 14:39:19.455 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:39:19.457 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-07 14:39:19.464 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:39:19.475 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:39:19.479 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:39:19.
+2024-11-07 14:39:19.483 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:39:19.492 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 14.6407ms
+2024-11-07 14:39:19.492 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:39:19.492 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 36.8801ms
+2024-11-07 14:40:07.904 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:40:07.905 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:40:07.905 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:40:07.905 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:40:07.
+2024-11-07 14:40:07.905 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:40:07.906 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 0.7089ms
+2024-11-07 14:40:07.906 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:40:07.906 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 1.6445ms
+2024-11-07 14:40:14.387 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:40:14.387 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:40:14.387 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:40:14.387 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:40:14.
+2024-11-07 14:40:14.387 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:40:14.388 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 0.4425ms
+2024-11-07 14:40:14.388 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:40:14.388 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 1.2674ms
+2024-11-07 14:45:50.884 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 14:45:50.891 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 7.0045ms
+2024-11-07 14:45:50.901 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 14:45:50.901 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.2958ms
+2024-11-07 14:45:51.012 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 14:45:51.017 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.8919ms
+2024-11-07 14:46:12.792 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:46:12.792 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:46:12.793 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:46:12.793 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:46:12.
+2024-11-07 14:46:12.794 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:46:12.795 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 1.399ms
+2024-11-07 14:46:12.795 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:46:12.795 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 3.2791ms
+2024-11-07 14:46:33.271 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:46:33.271 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:46:33.272 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:46:33.272 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:46:33.
+2024-11-07 14:46:33.272 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:46:33.272 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 0.3665ms
+2024-11-07 14:46:33.272 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:46:33.272 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 0.9854ms
+2024-11-07 14:47:33.989 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 14:47:33.991 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 2.3469ms
+2024-11-07 14:47:34.000 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 14:47:34.001 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.2093ms
+2024-11-07 14:47:34.040 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 14:47:34.043 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.3166ms
+2024-11-07 14:47:50.734 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:47:50.735 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:47:50.735 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:47:50.736 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:47:50.
+2024-11-07 14:47:50.736 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:47:50.737 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 1.1069ms
+2024-11-07 14:47:50.737 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:47:50.737 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 2.6135ms
+2024-11-07 14:48:29.427 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/WeatherForecast - null null
+2024-11-07 14:48:29.427 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:48:29.427 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[LoggingDemo.WeatherForecast] Get() on controller LoggingDemo.Controllers.WeatherForecastController (LoggingDemo).
+2024-11-07 14:48:29.427 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 14:48:29.
+2024-11-07 14:48:29.427 +07:00 [INF] Executing ObjectResult, writing value of type 'LoggingDemo.WeatherForecast[]'.
+2024-11-07 14:48:29.427 +07:00 [INF] Executed action LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo) in 0.2762ms
+2024-11-07 14:48:29.427 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.WeatherForecastController.Get (LoggingDemo)'
+2024-11-07 14:48:29.428 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/WeatherForecast - 200 null application/json; charset=utf-8 0.7241ms
+2024-11-07 14:48:59.167 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 14:48:59.170 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 3.2416ms
+2024-11-07 14:48:59.181 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 14:48:59.181 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.1648ms
+2024-11-07 14:48:59.216 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 14:48:59.218 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1.9247ms
+2024-11-07 15:02:36.426 +07:00 [INF] Now listening on: http://localhost:5174
+2024-11-07 15:02:36.447 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-07 15:02:36.448 +07:00 [INF] Hosting environment: Development
+2024-11-07 15:02:36.448 +07:00 [INF] Content root path: D:\yuu\.net\dotnet-webapi\LoggingDemo
+2024-11-07 15:02:36.470 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 15:02:36.518 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 48.2326ms
+2024-11-07 15:02:36.525 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 15:02:36.526 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 1.46ms
+2024-11-07 15:02:36.558 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 15:02:36.618 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.8223ms
+2024-11-07 15:10:18.197 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 15:10:18.204 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 6.7558ms
+2024-11-07 15:10:18.214 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 15:10:18.214 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.452ms
+2024-11-07 15:10:18.248 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 15:10:18.253 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.0861ms
+2024-11-07 15:13:20.119 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 15:13:20.124 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 4.8855ms
+2024-11-07 15:13:20.133 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 15:13:20.133 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.2524ms
+2024-11-07 15:13:20.165 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 15:13:20.170 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.3013ms
+2024-11-07 15:13:47.004 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/index.html - null null
+2024-11-07 15:13:47.005 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/index.html - 200 null text/html;charset=utf-8 0.5657ms
+2024-11-07 15:13:47.013 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-07 15:13:47.013 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.3067ms
+2024-11-07 15:13:47.040 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - null null
+2024-11-07 15:13:47.042 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2.0065ms
+2024-11-07 15:13:52.418 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5174/api/Logging/structured-logging - null null
+2024-11-07 15:13:52.420 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-07 15:13:52.426 +07:00 [INF] Executing endpoint 'LoggingDemo.Controllers.LoggingController.StructuredLoggingSample (LoggingDemo)'
+2024-11-07 15:13:52.433 +07:00 [INF] Route matched with {action = "StructuredLoggingSample", controller = "Logging"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult StructuredLoggingSample() on controller LoggingDemo.Controllers.LoggingController (LoggingDemo).
+2024-11-07 15:13:52.436 +07:00 [INF] This is a logging message with args: Today is "Thursday". It is 15:13:52.
+2024-11-07 15:13:52.437 +07:00 [INF] This is a logging message with string concatenation: Today is Thursday. It is 15:13:52.
+2024-11-07 15:13:52.441 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-11-07 15:13:52.443 +07:00 [INF] Executed action LoggingDemo.Controllers.LoggingController.StructuredLoggingSample (LoggingDemo) in 8.4581ms
+2024-11-07 15:13:52.443 +07:00 [INF] Executed endpoint 'LoggingDemo.Controllers.LoggingController.StructuredLoggingSample (LoggingDemo)'
+2024-11-07 15:13:52.443 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5174/api/Logging/structured-logging - 200 null text/plain; charset=utf-8 25.653ms
+2024-11-07 15:22:46.354 +07:00 [INF] Application is shutting down...
